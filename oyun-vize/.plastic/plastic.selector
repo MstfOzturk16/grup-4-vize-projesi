@@ -1,0 +1,4 @@
+repository "oyun-vize@Luckeur01@cloud"
+  path "/"
+    br "/main"
+    co "/main"
